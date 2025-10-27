@@ -43,6 +43,9 @@ Dashboard Snapshot
 <img width="1363" height="792" alt="image" src="https://github.com/user-attachments/assets/4b255262-3024-42f2-9850-e653ca2561e6" />
 
 
+## License
+This project is licensed under the [MIT License](LICENSE).
 
 
-This README template is ready to be copied directly into your GitHub repository.
+
+
